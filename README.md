@@ -2,6 +2,8 @@
 
 By Tyler La Fronz
 
+`go get go.lafronz.com/vanago`
+
 ## Description
 
 Vanago is a simple webserver that allows anyone to host custom vanity urls for their Go import paths.
@@ -22,7 +24,7 @@ Vanago is a simple webserver that allows anyone to host custom vanity urls for t
 2. Run the server
 
 ```bash
-    go install go.lafronz.com/cmd/vanago
+    go install go.lafronz.com/vanago/cmd/vanago
 ```
 
 ## Why I made it
