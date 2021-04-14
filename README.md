@@ -4,6 +4,10 @@ By Tyler La Fronz
 
 `go get go.lafronz.com/vanago`
 
+## Status
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/7f51e3b61aea41d300eb/maintainability)](https://codeclimate.com/github/lafronzt/vanago/maintainability)
+
 ## Description
 
 Vanago is a simple webserver that allows anyone to host custom vanity urls for their Go import paths.
